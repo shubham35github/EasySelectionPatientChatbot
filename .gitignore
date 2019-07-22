@@ -1,2 +1,8 @@
 .vs/
+<<<<<<< HEAD
 /bin
+/obj
+=======
+EasySelectionPatientChatbot/bin/
+EasySelectionPatientChatbot/obj/
+>>>>>>> 480c13e2d63683cb84745609b96f6cb35615611d
