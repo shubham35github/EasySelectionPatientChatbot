@@ -10,3 +10,9 @@ C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySe
 C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.exe
 C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.pdb
 C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.csprojResolveAssemblyReference.cache
+C:\Users\320050488\OneDrive - Philips\philips\C# learning\EasySelectionPatientChatbot\EasySelectionPatientChatbot\bin\Debug\EasySelectionPatientChatbot.exe.config
+C:\Users\320050488\OneDrive - Philips\philips\C# learning\EasySelectionPatientChatbot\EasySelectionPatientChatbot\bin\Debug\EasySelectionPatientChatbot.exe
+C:\Users\320050488\OneDrive - Philips\philips\C# learning\EasySelectionPatientChatbot\EasySelectionPatientChatbot\bin\Debug\EasySelectionPatientChatbot.pdb
+C:\Users\320050488\OneDrive - Philips\philips\C# learning\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.csprojResolveAssemblyReference.cache
+C:\Users\320050488\OneDrive - Philips\philips\C# learning\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.exe
+C:\Users\320050488\OneDrive - Philips\philips\C# learning\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.pdb

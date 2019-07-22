@@ -6,7 +6,7 @@ namespace EasySelectionPatientChatbot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello User");
+            Console.WriteLine("Hello User. Welcome to C#");
         }
     }
 }
