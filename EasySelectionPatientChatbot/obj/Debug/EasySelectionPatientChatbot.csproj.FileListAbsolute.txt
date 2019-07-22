@@ -4,3 +4,9 @@ C:\Users\320050717\source\repos\EasySelectionPatientChatbot\EasySelectionPatient
 C:\Users\320050717\source\repos\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.exe
 C:\Users\320050717\source\repos\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.pdb
 C:\Users\320050717\source\repos\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.csprojResolveAssemblyReference.cache
+C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\bin\Debug\EasySelectionPatientChatbot.exe.config
+C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\bin\Debug\EasySelectionPatientChatbot.exe
+C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\bin\Debug\EasySelectionPatientChatbot.pdb
+C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.exe
+C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.pdb
+C:\Users\320050498\OneDrive - Philips\Desktop\EasySelectionPatientChatbot\EasySelectionPatientChatbot\obj\Debug\EasySelectionPatientChatbot.csprojResolveAssemblyReference.cache
